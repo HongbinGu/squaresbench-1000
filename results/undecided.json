@@ -1,0 +1,11 @@
+{
+ "instances": 120,
+ "pairs_total": 188148,
+ "pairs_undecided": 174753,
+ "pairs_undecided_ratio": 0.9288060463039735,
+ "instances_with_undecided": 119,
+ "instances_with_undecided_ratio": 0.9916666666666667,
+ "median_undecided_per_instance": 1301,
+ "max_undecided_per_instance": 3629,
+ "all_certified": true
+}

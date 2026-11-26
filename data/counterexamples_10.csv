@@ -1,0 +1,12 @@
+n,K,certified_L,grid_ceiling,score_loss,status_after_float64_roundtrip
+333,18,18.77375341099474,19,0.012398237,infeasible: squares overlap (certified)
+365,19,19.61285638767198,20,0.020264023,infeasible: squares overlap (certified)
+414,20,20.84066404810577,21,0.007830935,infeasible: squares overlap (certified)
+418,20,20.923126494184906,21,0.003760006,infeasible: squares overlap (certified)
+461,21,21.932001958538066,22,0.003166985,infeasible: squares overlap (certified)
+645,25,25.870318122519755,26,0.005106219,infeasible: squares overlap (certified)
+690,26,26.776673135090864,27,0.008501908,infeasible: squares overlap (certified)
+756,27,27.925314696744326,28,0.002716278,infeasible: squares overlap (certified)
+761,27,27.99782038293771,28,0.000079011,infeasible: squares overlap (certified)
+857,29,29.769230769231882,30,0.007882927,infeasible: squares overlap (certified)
+sum,,,,0.071706528,

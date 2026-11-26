@@ -1,0 +1,1397 @@
+{
+ "sample": 150,
+ "digits": [
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "summary": {
+  "12": {
+   "ok": 74,
+   "total": 150,
+   "rate": 0.49333333333333335
+  },
+  "13": {
+   "ok": 95,
+   "total": 150,
+   "rate": 0.6333333333333333
+  },
+  "14": {
+   "ok": 135,
+   "total": 150,
+   "rate": 0.9
+  },
+  "15": {
+   "ok": 144,
+   "total": 150,
+   "rate": 0.96
+  },
+  "16": {
+   "ok": 146,
+   "total": 150,
+   "rate": 0.9733333333333334
+  },
+  "17": {
+   "ok": 150,
+   "total": 150,
+   "rate": 1.0
+  }
+ },
+ "per_instance": {
+  "1": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "7": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "13": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "19": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "25": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "31": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "37": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "43": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "49": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "55": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "61": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "67": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "73": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "79": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "85": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "91": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "97": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "103": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "109": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Overlap undecidable at max precision",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "115": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "121": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "127": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "133": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "139": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "145": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "151": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "157": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "163": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "169": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "175": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "181": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "187": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "193": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "199": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "205": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "211": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "217": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "223": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "229": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "235": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "241": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "247": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "253": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "259": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "265": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "271": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "277": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "283": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "289": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "295": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "301": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "307": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "313": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "319": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "325": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "331": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "337": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "343": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "349": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "355": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "361": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "367": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "373": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Overlap undecidable at max precision",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "379": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "infeasible: Squares overlap (certified)",
+   "16": "infeasible: Squares overlap (certified)",
+   "17": "ok"
+  },
+  "385": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "391": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "397": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "403": {
+   "12": "infeasible: Overlap undecidable at max precision",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "409": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "415": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "421": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "427": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "433": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "439": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "445": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "451": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "457": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "463": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "infeasible: Squares overlap (certified)",
+   "16": "ok",
+   "17": "ok"
+  },
+  "469": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "475": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "481": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "487": {
+   "12": "infeasible: Overlap undecidable at max precision",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "493": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "499": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "infeasible: Squares overlap (certified)",
+   "16": "infeasible: Squares overlap (certified)",
+   "17": "ok"
+  },
+  "505": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "511": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "517": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "523": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "529": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "535": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "541": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "547": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "infeasible: Squares overlap (certified)",
+   "16": "ok",
+   "17": "ok"
+  },
+  "553": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "559": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "565": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "571": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "577": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Overlap undecidable at max precision",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "583": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "589": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "595": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "601": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "607": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "613": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "619": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "625": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "631": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "637": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "643": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "649": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "655": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "661": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "667": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "673": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "679": {
+   "12": "infeasible: Overlap undecidable at max precision",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "685": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "691": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "697": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "infeasible: Squares overlap (certified)",
+   "16": "infeasible: Squares overlap (certified)",
+   "17": "ok"
+  },
+  "703": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "709": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "715": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "721": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "727": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "733": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "739": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "745": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "751": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Overlap undecidable at max precision",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "757": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "763": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "769": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "775": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "781": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "787": {
+   "12": "infeasible: Overlap undecidable at max precision",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "793": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "799": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Overlap undecidable at max precision",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "805": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "811": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "817": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "823": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "829": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "835": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "841": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "847": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "853": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "859": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "865": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "871": {
+   "12": "infeasible: Squares overlap (certified)",
+   "13": "infeasible: Squares overlap (certified)",
+   "14": "infeasible: Squares overlap (certified)",
+   "15": "infeasible: Squares overlap (certified)",
+   "16": "infeasible: Squares overlap (certified)",
+   "17": "ok"
+  },
+  "877": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "883": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "889": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  },
+  "895": {
+   "12": "ok",
+   "13": "ok",
+   "14": "ok",
+   "15": "ok",
+   "16": "ok",
+   "17": "ok"
+  }
+ },
+ "n_list": [
+  1,
+  7,
+  13,
+  19,
+  25,
+  31,
+  37,
+  43,
+  49,
+  55,
+  61,
+  67,
+  73,
+  79,
+  85,
+  91,
+  97,
+  103,
+  109,
+  115,
+  121,
+  127,
+  133,
+  139,
+  145,
+  151,
+  157,
+  163,
+  169,
+  175,
+  181,
+  187,
+  193,
+  199,
+  205,
+  211,
+  217,
+  223,
+  229,
+  235,
+  241,
+  247,
+  253,
+  259,
+  265,
+  271,
+  277,
+  283,
+  289,
+  295,
+  301,
+  307,
+  313,
+  319,
+  325,
+  331,
+  337,
+  343,
+  349,
+  355,
+  361,
+  367,
+  373,
+  379,
+  385,
+  391,
+  397,
+  403,
+  409,
+  415,
+  421,
+  427,
+  433,
+  439,
+  445,
+  451,
+  457,
+  463,
+  469,
+  475,
+  481,
+  487,
+  493,
+  499,
+  505,
+  511,
+  517,
+  523,
+  529,
+  535,
+  541,
+  547,
+  553,
+  559,
+  565,
+  571,
+  577,
+  583,
+  589,
+  595,
+  601,
+  607,
+  613,
+  619,
+  625,
+  631,
+  637,
+  643,
+  649,
+  655,
+  661,
+  667,
+  673,
+  679,
+  685,
+  691,
+  697,
+  703,
+  709,
+  715,
+  721,
+  727,
+  733,
+  739,
+  745,
+  751,
+  757,
+  763,
+  769,
+  775,
+  781,
+  787,
+  793,
+  799,
+  805,
+  811,
+  817,
+  823,
+  829,
+  835,
+  841,
+  847,
+  853,
+  859,
+  865,
+  871,
+  877,
+  883,
+  889,
+  895
+ ]
+}
